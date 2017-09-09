@@ -4,3 +4,4 @@
 *.png
 reports/*
 .ipynb_checkpoints/*
+*.ini
